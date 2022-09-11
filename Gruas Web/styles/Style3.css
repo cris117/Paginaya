@@ -1,0 +1,22 @@
+body {
+    height: 500px;
+    background-image: url("");
+  background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+  }
+
+  h2{
+    color: white;
+    text-align: center;
+  }
+  aside{
+    text-align: center;
+  }
+  input{
+    
+    text-align: center;
+  }
+ #Boton12{
+  text-align: center;
+ }
